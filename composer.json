@@ -1,0 +1,12 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Ganlv\\Z5EncryptDecompiler\\": "src"
+    }
+  },
+  "require": {
+    "nikic/php-parser": "^4.2",
+    "ext-openssl": "*",
+    "ext-zlib": "*"
+  }
+}
